@@ -1,6 +1,6 @@
 ### Olá, meu nome é Guilherme Lapa! 👋
 
-- 👨‍🎓 Cursando Engenharia de Software
+- 👨‍🎓 Graduando em Engenharia de Software
 - 🌱 Estudando front-end e java
 - 📫 Contate-me no e-mail: contato.guilhermelapa@gmail.com
 
