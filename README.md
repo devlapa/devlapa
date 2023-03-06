@@ -1,7 +1,7 @@
 ### Olá, meu nome é Guilherme Lapa! 👋
 
 - 👨‍🎓 Graduando em Engenharia de Software
-- 🌱 Estudando: HTML/CSS3/JAVA
+- 🌱 Estudando: HTML / CSS3 / JAVA
 - 📫 Contate-me no e-mail: contato.guilhermelapa@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeLapa&theme=outrun&show_icons=true)
